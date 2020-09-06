@@ -1,4 +1,4 @@
-const key = "Awt2ulFHoE5LdlmSjoAAc5fjp23AS8Wu";
+const key = "SECRET_KEY"; // from https://developer.accuweather.com/
 
 // Get Weather information
 const getWeather = async (id) => {
